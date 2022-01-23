@@ -49,8 +49,8 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
  
 * Guia dos principais termos: https://atozofai.withgoogle.com/intl/pt-BR/
 * Definições de *fairness* (justiça): 
- * https://fairware.cs.umass.edu/papers/Verma.pdf
- * https://developers.google.com/machine-learning/glossary/fairness
+  * https://fairware.cs.umass.edu/papers/Verma.pdf
+  * https://developers.google.com/machine-learning/glossary/fairness
 * Viés: https://www.youtube.com/watch?v=mdCEaHjHsxs
 * Model cards: https://modelcards.withgoogle.com/about
 * "Interpretable Machine Learning: A Guide for Making Black Box Models Explainable": https://christophm.github.io/interpretable-ml-book/
