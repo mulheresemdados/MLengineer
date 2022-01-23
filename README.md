@@ -26,10 +26,14 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Cloud Computing: AWS, Azure, Google Cloud, Oracle Cloud
 * Infraestrutura como Código: Ansible, Terraform, Chef, Puppet
 * Soluções de data lake/warehouse/lakehouse: Redshift, Dremio, Presto, Athena, BigQuery, S3, Databricks, etc.
+* Conceitos de IA responsável ([Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/))
   
 ##
 
 #### Cursos
+ 
+* SQL Iniciante: https://www.alura.com.br/cursos-online-data-science/sql
+* SQL Avançado: https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
   
 ##
  
