@@ -43,8 +43,8 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Cursos do DeepLearning.AI: https://www.deeplearning.ai/programs/
  
 ##### Outros
-* Cursos do Kaggle (são vários!): https://www.kaggle.com/learn/overview
-* Google Cloud Platform (GCP) skills challenge: https://inthecloud.withgoogle.com/google-cloud-skills/register.html
+* Cursos do [Kaggle](https://www.kaggle.com/learn/overview) (são vários!)
+* [Google Cloud Platform (GCP) skills challenge](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
   
 ##
  
