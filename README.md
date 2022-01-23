@@ -41,6 +41,11 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Inteligência artificial e computacional (Eu Capacito): https://eucapacito.com.br/curso-ec/inteligencia-artificial-e-computacional/
 * Machine Learning (Stanford, com Andrew Ng): https://www.coursera.org/learn/machine-learning
 * Cursos do DeepLearning.AI: https://www.deeplearning.ai/programs/
+* Made With ML (ML aplicado + MLOps): https://madewithml.com/
+ 
+##### Supletivos [Data Hackers](https://datahackers.com.br/)
+* [Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU)
+* [MLflow](https://www.youtube.com/watch?v=u31mTpus12k)
  
 ##### Outros
 * Cursos do [Kaggle](https://www.kaggle.com/learn/overview) (são vários!)
@@ -53,6 +58,9 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * [MLOps: pipelines de entrega contínua e automação no aprendizado de máquina](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [Guia para profissionais de MLOps: um framework para entrega contínua e automação de machine learning](https://cloud.google.com/resources/mlops-whitepaper)
+* [MLOps and DevOps: Why Data Makes It Different](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/)
+* [MLOps: The Upcoming Shining Star](https://towardsdatascience.com/mlops-the-upcoming-shining-star-dcf9444c493)
+  * Esse artigo fala dos motivos pelos quais MLOps é tão importante
   
 ##
  
@@ -63,6 +71,9 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * [Blog da Chip Huyen](https://huyenchip.com/)
 * [Blog do Eugene Yan](https://eugeneyan.com/)
 * [Papers with Code](https://paperswithcode.com/)
+* Awesome MLOps (listas que outras pessoas fizeram sobre o tema!)
+   * https://github.com/visenger/awesome-mlops
+   * https://github.com/kelvins/awesome-mlops
  
 ##
  
