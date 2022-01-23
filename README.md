@@ -12,14 +12,23 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
   
 ##
  
-#### Hard skills
+#### HARD SKILLS NECESSÁRIAS
+
+* Conceitos básicos de Inteligência Artificial: tipos de aprendizado, estatística, etc.
+* Conhecimento em linguagem de programação, como **Python**
+* Conhecimento em Engenharia de Software: boas práticas de código, microsserviços, APIs
+* SQL e noções de arquitetura de dados (data warehouse, data lake, etc.)
+* DevOps/MLOps - automatização, CI/CD e pipelines
+* Orquestração de serviços e pipelines: Kubernetes, Airflow, Kubeflow
+ 
+#### HARD SKILLS DIFERENCIAIS
+ 
+* Cloud Computing: AWS, Azure, Google Cloud, Oracle Cloud
+* Infraestrutura como Código: Ansible, Terraform, Chef, Puppet
+* Soluções de data lake/warehouse/lakehouse: Redshift, Dremio, Presto, Athena, BigQuery, S3, Databricks, etc.
   
 ##
- 
-#### Soft skills
-  
-##
- 
+
 #### Cursos
   
 ##
@@ -29,16 +38,6 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 ##
  
 #### Referências
-  
-##
- 
-#### O que estudar na prática?
-
-- Conceitos básicos de IA/ML/DS/DP
-- Pipelines
-- APIs
-- Containers
-
 
  
  </div>
