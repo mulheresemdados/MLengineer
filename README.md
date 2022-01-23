@@ -30,7 +30,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
   
 ##
 
-#### Cursos
+#### Cursos | Supletivos | Tutoriais
 
 ##### SQL
 * Iniciante: https://www.alura.com.br/cursos-online-data-science/sql
@@ -42,10 +42,16 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Machine Learning (Stanford, com Andrew Ng): https://www.coursera.org/learn/machine-learning
 * Cursos do DeepLearning.AI: https://www.deeplearning.ai/programs/
 * Made With ML (ML aplicado + MLOps): https://madewithml.com/
+* Machine Learning University (cursos diversos): https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured
  
 ##### Supletivos [Data Hackers](https://datahackers.com.br/)
 * [Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU)
 * [MLflow](https://www.youtube.com/watch?v=u31mTpus12k)
+ 
+##### Tutoriais
+ 
+* [61º Python Floripa](https://youtu.be/R8rtdIABVxc) - Edição sobre Machine Learning
+* [Roadsec@Home#26](https://youtu.be/z0y4PUmSYfk) - Hands-on "Aprendendo o "Hello World" da Engenharia de Machine Learning"
  
 ##### Outros
 * Cursos do [Kaggle](https://www.kaggle.com/learn/overview) (são vários!)
@@ -66,14 +72,23 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
  
 #### Referências
  
-* [MLOps community](https://mlops.community/)
-* [DeepLearning.AI](https://www.deeplearning.ai/)
 * [Blog da Chip Huyen](https://huyenchip.com/)
 * [Blog do Eugene Yan](https://eugeneyan.com/)
 * [Papers with Code](https://paperswithcode.com/)
 * Awesome MLOps (listas que outras pessoas fizeram sobre o tema!)
    * https://github.com/visenger/awesome-mlops
    * https://github.com/kelvins/awesome-mlops
+
+ 
+##
+ 
+#### Comunidades
+
+* [MLOps community](https://mlops.community/)
+* [DeepLearning.AI](https://www.deeplearning.ai/)
+* [AI Girls Comunidade](https://aigirlsbr.github.io/)
+* [Mulheres em IA (MIA)](https://mulheres-em-ia.github.io/)
+* [Comunidade FLAI](https://www.youtube.com/c/CanalFlai)
  
 ##
  
@@ -88,7 +103,11 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Viés: https://www.youtube.com/watch?v=mdCEaHjHsxs
 * Model cards: https://modelcards.withgoogle.com/about
 * "Interpretable Machine Learning: A Guide for Making Black Box Models Explainable": https://christophm.github.io/interpretable-ml-book/
-
+ 
+#### Inteligência Artificial aplicada à saúde
+ 
+* [Dados e Saúde](https://somos.dadosesaude.com/)
+* Palestra ["Nem tudo é sobre IA. Como ir além do hype estruturando dados de saúde"](https://youtu.be/u9_UGWqbzQw?t=4378)
  
  </div>
  
