@@ -107,7 +107,17 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 #### Inteligência Artificial aplicada à saúde
  
 * [Dados e Saúde](https://somos.dadosesaude.com/)
+* [Medicine and the Machine](https://www.medscape.com/features/public/machine)
+* [Doctor Penguim](http://doctorpenguin.com/)
+* [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/)
+* [ML4H](https://ml4health.github.io/2021/index.html)
+* [Healthy ML](https://healthyml.org/)
 * Palestra ["Nem tudo é sobre IA. Como ir além do hype estruturando dados de saúde"](https://youtu.be/u9_UGWqbzQw?t=4378)
+* DS4Health
+  * [Data Science aplicada a saúde materno-infantil](https://www.youtube.com/watch?v=6khxGQyqTPQ&t=3s)
+  * [Research for Health](https://www.youtube.com/watch?v=6cD-a1BrtSM&t=1s)
+  * [Business for Health](https://www.youtube.com/watch?v=47_4e2x9Xys&t=1223s)
+* [Coursera AI for Medicine](https://pt.coursera.org/specializations/ai-for-medicine)
  
  </div>
  
