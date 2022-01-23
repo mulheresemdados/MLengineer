@@ -31,17 +31,38 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 ##
 
 #### Cursos
+
+##### SQL
+* Iniciante: https://www.alura.com.br/cursos-online-data-science/sql
+* Avançado: https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
  
-* SQL Iniciante: https://www.alura.com.br/cursos-online-data-science/sql
-* SQL Avançado: https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
+##### Inteligência Artificial
+* Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course?_lrsc=2816a671-927b-4c92-af3b-63e9baa14f36
+* Inteligência artificial e computacional (Eu Capacito): https://eucapacito.com.br/curso-ec/inteligencia-artificial-e-computacional/
+* Machine Learning (Stanford, com Andrew Ng): https://www.coursera.org/learn/machine-learning
+* Cursos do DeepLearning.AI: https://www.deeplearning.ai/programs/
+ 
+##### Outros
+* Cursos do Kaggle (são vários!): https://www.kaggle.com/learn/overview
+* Google Cloud Platform (GCP) skills challenge: https://inthecloud.withgoogle.com/google-cloud-skills/register.html
   
 ##
  
 #### Leituras
+ 
+* [MLOps: pipelines de entrega contínua e automação no aprendizado de máquina](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [Guia para profissionais de MLOps: um framework para entrega contínua e automação de machine learning](https://cloud.google.com/resources/mlops-whitepaper)
   
 ##
  
 #### Referências
+ 
+* [MLOps community](https://mlops.community/)
+* [DeepLearning.AI](https://www.deeplearning.ai/)
+* [Blog da Chip Huyen](https://huyenchip.com/)
+* [Blog do Eugene Yan](https://eugeneyan.com/)
+* [Papers with Code](https://paperswithcode.com/)
  
 ##
  
