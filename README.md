@@ -16,17 +16,18 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 
 * Conceitos básicos de Inteligência Artificial: tipos de aprendizado, estatística, etc.
 * Conhecimento em linguagem de programação, como **Python**
-* Conhecimento em Engenharia de Software: boas práticas de código, microsserviços, APIs
-* SQL e noções de arquitetura de dados (data warehouse, data lake, etc.)
+* Conhecimento em Engenharia de Software: boas práticas de código, microsserviços, APIs, git
+* SQL e noções de arquitetura de dados (data warehouse, data lake, delta lake etc.)
 * DevOps/MLOps - automatização, CI/CD e pipelines
 * Orquestração de serviços e pipelines: Kubernetes, Airflow, Kubeflow
  
 #### Hard skills diferenciais
  
 * Cloud Computing: AWS, Azure, Google Cloud, Oracle Cloud
-* Infraestrutura como Código: Ansible, Terraform, Chef, Puppet
+* Infraestrutura como Código: Ansible, Terraform, Chef, Puppet, Azure Pipelines
 * Soluções de data lake/warehouse/lakehouse: Redshift, Dremio, Presto, Athena, BigQuery, S3, Databricks, etc.
 * Conceitos de IA responsável ([Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/))
+* Ferramentas para atuação com big data, como uso de pyspark e suas melhores práticas de processamento distribuido
   
 ##
 
@@ -47,6 +48,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 ##### Supletivos [Data Hackers](https://datahackers.com.br/)
 * [Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU)
 * [MLflow](https://www.youtube.com/watch?v=u31mTpus12k)
+  * [MLFlow docs](https://www.mlflow.org/docs/latest/rest-api.html)
  
 ##### Tutoriais
  
