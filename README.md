@@ -4,7 +4,7 @@
   
 #### O que faz uma Engenheira de Machine Learning?
  
-A **Engenheira de Machine Learning** é a pessoa que trabalha com a operacionalização das soluções que envolvem inteligência artificial (IA), ou seja, cuida de ponta a ponta delas. O maior foco é na disponibilização (o que é comumente referido como "colocar em produção" ou "deployar/fazer deploy"), monitoramento e manutenção dos modelos de IA e integração com outros serviços. Outra tarefa importante é a automação de processos. 
+A **Engenheira de Machine Learning** é a pessoa que trabalha com a operacionalização das soluções que envolvem inteligência artificial (IA), ou seja, cuida de ponta a ponta delas. O maior foco é na disponibilização (o que é comumente referido como "colocar em produção" ou "deployar/fazer deploy"), monitoramento e manutenção dos modelos de IA e integração com outros serviços. Outra tarefa importante é a automação de processos. Além disso um MLE pode ser responsável pela qualidade dos modelos, servindo como suporte/consultor para áreas de Data Science e semelhantes.
  
 O que é mais importante na Engenharia de Machine Learning? É lembrar que a **IA é apenas uma ferramenta**. Se você tiver um objetivo bem definido e a motivação necessária para resolver o problema escolhido, você será capaz de aprender qualquer coisa para isso.
  
@@ -20,6 +20,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * SQL e noções de arquitetura de dados (data warehouse, data lake, delta lake etc.)
 * DevOps/MLOps - automatização, CI/CD e pipelines
 * Orquestração de serviços e pipelines: Kubernetes, Airflow, Kubeflow
+* Ferramentas para atuação com big data, como uso de pyspark e suas melhores práticas de processamento distribuido (hadoop)
  
 #### Hard skills diferenciais
  
@@ -27,7 +28,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Infraestrutura como Código: Ansible, Terraform, Chef, Puppet, Azure Pipelines
 * Soluções de data lake/warehouse/lakehouse: Redshift, Dremio, Presto, Athena, BigQuery, S3, Databricks, etc.
 * Conceitos de IA responsável ([Responsible AI](https://ai.google/responsibilities/responsible-ai-practices/))
-* Ferramentas para atuação com big data, como uso de pyspark e suas melhores práticas de processamento distribuido
+* **MLFlow**
   
 ##
 
@@ -45,10 +46,13 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * Made With ML (ML aplicado + MLOps): https://madewithml.com/
 * Machine Learning University (cursos diversos): https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured
  
+##### Pyspark
+* [What is Pyspark](https://databricks.com/glossary/pyspark)
+* [Funcionamento do PySpark](https://medium.com/data-hackers/entendo-funcionamento-do-pyspark-2b5ab4321ab9)
+
 ##### Supletivos [Data Hackers](https://datahackers.com.br/)
 * [Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU)
 * [MLflow](https://www.youtube.com/watch?v=u31mTpus12k)
-  * [MLFlow docs](https://www.mlflow.org/docs/latest/rest-api.html)
  
 ##### Tutoriais
  
@@ -58,6 +62,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 ##### Outros
 * Cursos do [Kaggle](https://www.kaggle.com/learn/overview) (são vários!)
 * [Google Cloud Platform (GCP) skills challenge](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
+* [MLFlow docs](https://www.mlflow.org/docs/latest/rest-api.html)
   
 ##
  
@@ -69,6 +74,7 @@ O maior entregável da Engenheira de Machine Learning é a **integridade e escal
 * [MLOps and DevOps: Why Data Makes It Different](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/)
 * [MLOps: The Upcoming Shining Star](https://towardsdatascience.com/mlops-the-upcoming-shining-star-dcf9444c493)
   * Esse artigo fala dos motivos pelos quais MLOps é tão importante
+* [The Hundred-Page Machine Learning Book - Andriy Burkov](https://www.amazon.com.br/Hundred-Page-Machine-Learning-Book/dp/199957950X)
   
 ##
  
